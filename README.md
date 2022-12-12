@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Cecilio Xavier</h1>
 <h3 align="center">Entusiasta do mundo de análise de dados e business intelligence</h3>
 
-- 🔭 Atualmente estou trabalhando com inteligência de negócios, análise e visualização de dados [Verde em Dados/+Verde](https://public.tableau.com/app/profile/verde.em.dados)
+- 🔭 Atualmente estou trabalhando com inteligência de negócios, análise e visualização de dados no [Projeto Verde em Dados/+Verde](https://public.tableau.com/app/profile/verde.em.dados)
 
 - 🌱 Atualmente estou aprendendo **Power BI e ETL**
 
